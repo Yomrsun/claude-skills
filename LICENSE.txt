@@ -1,0 +1,12 @@
+License: Free Claude Skills by SECTION | 55
+(pre-publish-audit, story-bible, reader-panel)
+Copyright (c) 2026 SECTION | 55. All rights reserved.
+
+You may use these skills free of charge with any AI assistant:
+- for your own business and for client work you perform (pre-publish-audit), and
+- on your own writing projects, including commercially published work (story-bible, reader-panel).
+You may modify them for that use.
+
+You may not resell, sublicense or redistribute these skills, in original or modified form, as a product, template, course, download or listing.
+
+Your work remains entirely yours. The skills are provided "as is", without warranty of any kind. They do not provide legal or regulatory advice. You are responsible for reviewing and approving anything you publish.
